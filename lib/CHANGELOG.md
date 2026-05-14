@@ -1,5 +1,11 @@
 # @asgardeo/auth-react
 
+## 5.6.2
+
+### Patch Changes
+
+- 56a7f6c: Bump @asgardeo/auth-spa to version 3.5.2
+
 ## 5.6.1
 
 ### Patch Changes
